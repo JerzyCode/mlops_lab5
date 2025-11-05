@@ -1,3 +1,5 @@
 .venv
 
 remote_data
+
+mlflow-artifacts
